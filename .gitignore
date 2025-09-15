@@ -2,7 +2,7 @@
 node_modules/
 
 # Archivos de credenciales
-*.json
+gestor-de-gastos-*.json
 
 # Variables de entorno
 .env
